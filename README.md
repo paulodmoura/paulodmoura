@@ -26,6 +26,28 @@ Hi! I am a Junior Tech Enthusiast focused on DevOps, Cybersecurity, and Data, ac
 
 ---
 
+<div align="center">
+
+  <p>
+    <a href="https://www.linkedin.com/in/paulo-moura-705a13280/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A84FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:paulomoura0901@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://discord.com/users/nnetin001" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=paulodmoura&color=0A84FF&style=flat-square&label=Profile+views" alt="Profile views" />
+  </p>
+
+</div>
+
+---
+
 ### 🛠️ Languages & Tools:
 
 <p align="left">
