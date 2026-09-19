@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=80&section=header"/>
+<div align="center">
+  <img width="85%" src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=100&section=header"/>
+</div>
 
 <h2 align="left">Hello World, I'm Paulo, be very welcome</h2>
 
